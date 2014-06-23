@@ -28,7 +28,7 @@
 		}
 		else
 		{
-		 	window.location.href = "#page-ui-interaction";
+		 	window.location.replace("#page-ui-interaction");
 		}
     }
 
