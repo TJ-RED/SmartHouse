@@ -67,8 +67,9 @@
         var okLogIn = 0;
 
         if (username === "" || password === "") 
-		{
-            alert("Ambos campos son requeridos...");
+        {
+            $("#SM_Label").text("Ambos campos son requeridos...");
+            $("#ServerMessage").popup("open");
         } 
 		else 
 		{
