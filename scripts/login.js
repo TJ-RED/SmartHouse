@@ -14,6 +14,7 @@
         $password = $("#login-password");
         $loggedUser = $("#logout-username");
 
+
         setMode("login");
 
         $username.on("keyup", checkEnter);
@@ -28,7 +29,7 @@
 		}
 		else
 		{
-		 	window.location.replace("#page-ui-interaction");
+		    window.location.replace("#page-ui-interaction");
 		}
     }
 
@@ -51,7 +52,7 @@
 		{
             $loginWrap.hide();
             $logoutWrap.show();
-			window.location.href = "#page-home";
+            window.location.replace("#page-home");
         }
     }
 
@@ -63,21 +64,47 @@
         var username = $username.val().trim(),
             password = $password.val().trim();
 
+        var okLogIn = 0;
+
         if (username === "" || password === "") 
 		{
-            navigator.notification.alert("Ambos campos son requeridos...",
-                                            function () { },
-                                            "Login failed",
-                                            'OK');
+            alert("Ambos campos son requeridos...");
         } 
 		else 
 		{
-			//Aqui es donde inicio secion
-            $loggedUser.text(username);
-			
-			sessionStorage['UsrLogged']  = username;
-				
-            setMode("logout");
+            $.post
+            (
+                "http://appmediator.elasticbeanstalk.com/J-RedApp/index.php",
+
+                { 
+                    user: username, 
+                    pwd: password
+                },
+
+                function (data)
+                {
+                    okLogIn = data.inicioExito * 1;
+                    alert(data.inicioExito + ", " + data.numSwitch);
+                },
+
+                "json"
+            )
+            .fail
+            (
+                function (data)
+                {
+                    alert(data.responseText);
+                }
+            )
+
+            if (okLogIn == 1)
+            {
+                $loggedUser.text(username);
+
+                sessionStorage['UsrLogged'] = username;
+
+                setMode("logout");
+            }
         }
     }
 
