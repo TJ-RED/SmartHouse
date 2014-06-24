@@ -75,36 +75,45 @@
             $.post
             (
                 "http://appmediator.elasticbeanstalk.com/J-RedApp/index.php",
-
                 { 
                     user: username, 
                     pwd: password
                 },
-
                 function (data)
                 {
                     okLogIn = data.inicioExito * 1;
-                    alert(data.inicioExito + ", " + data.numSwitch);
+                    if (okLogIn == 0)
+                    {
+                        $("#SM_Label").text("Error... Usuario o Contraseña incorrecta");
+                        $("#ServerMessage").popup("open");
+                    }
                 },
-
                 "json"
             )
             .fail
             (
                 function (data)
                 {
-                    alert(data.responseText);
+                    $("#SM_Label").text(data.responseText);
+                    $("#ServerMessage").popup("open");
                 }
             )
+            .done
+            (
+               function ()
+               {
+                   if (okLogIn == 1)
+                   {
+                       $loggedUser.text(username);
 
-            if (okLogIn == 1)
-            {
-                $loggedUser.text(username);
+                       sessionStorage['UsrLogged'] = username;
 
-                sessionStorage['UsrLogged'] = username;
+                       setMode("logout");
+                   }
+               }
+            );
 
-                setMode("logout");
-            }
+            
         }
     }
 
