@@ -75,13 +75,14 @@
 		{
             $.post
             (
-                "http://appmediator.elasticbeanstalk.com/J-RedApp/index.php",
+                "http://jred.appmediador.cloudcontrolled.com/",
                 { 
                     user: username, 
                     pwd: password
                 },
                 function (data)
                 {
+                    console.log(data);
                     okLogIn = data.inicioExito * 1;
                     if (okLogIn == 0)
                     {
