@@ -75,14 +75,14 @@
 		{
             $.post
             (
-                "http://jred.appmediador.cloudcontrolled.com/",
+                "http://jred-jred.cloudcontrolled.com",
                 { 
                     user: username, 
                     pwd: password
                 },
                 function (data)
                 {
-                    console.log(data);
+                    //console.log(data);
                     okLogIn = data.inicioExito * 1;
                     if (okLogIn == 0)
                     {
@@ -134,3 +134,4 @@
         }
     }
 })(window);
+

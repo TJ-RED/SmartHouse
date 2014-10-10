@@ -1,0 +1,467 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <File Include="App_Resources/Android/drawable-hdpi/icon.png">
+      <publishTime>04/09/2014 08:56:16</publishTime>
+    </File>
+    <File Include="App_Resources/Android/drawable-ldpi/icon.png">
+      <publishTime>04/09/2014 08:56:16</publishTime>
+    </File>
+    <File Include="App_Resources/Android/drawable-mdpi/icon.png">
+      <publishTime>04/09/2014 08:56:16</publishTime>
+    </File>
+    <File Include="App_Resources/Android/drawable-nodpi/splashscreen.9.png">
+      <publishTime>04/09/2014 08:56:16</publishTime>
+    </File>
+    <File Include="App_Resources/iOS/Default%402x.png">
+      <publishTime>04/09/2014 08:56:16</publishTime>
+    </File>
+    <File Include="App_Resources/iOS/Default-568h%402x.png">
+      <publishTime>04/09/2014 08:56:16</publishTime>
+    </File>
+    <File Include="App_Resources/iOS/Default-Landscape%402x.png">
+      <publishTime>04/09/2014 08:56:16</publishTime>
+    </File>
+    <File Include="App_Resources/iOS/Default-Landscape.png">
+      <publishTime>04/09/2014 08:56:16</publishTime>
+    </File>
+    <File Include="App_Resources/iOS/Default-Portrait%402x.png">
+      <publishTime>04/09/2014 08:56:16</publishTime>
+    </File>
+    <File Include="App_Resources/iOS/Default-Portrait.png">
+      <publishTime>04/09/2014 08:56:16</publishTime>
+    </File>
+    <File Include="App_Resources/iOS/Default.png">
+      <publishTime>04/09/2014 08:56:16</publishTime>
+    </File>
+    <File Include="App_Resources/iOS/icon%402x.png">
+      <publishTime>04/09/2014 08:56:16</publishTime>
+    </File>
+    <File Include="App_Resources/iOS/icon-40%402x.png">
+      <publishTime>04/09/2014 08:56:16</publishTime>
+    </File>
+    <File Include="App_Resources/iOS/icon-40.png">
+      <publishTime>04/09/2014 08:56:16</publishTime>
+    </File>
+    <File Include="App_Resources/iOS/icon-60%402x.png">
+      <publishTime>04/09/2014 08:56:16</publishTime>
+    </File>
+    <File Include="App_Resources/iOS/icon-60.png">
+      <publishTime>04/09/2014 08:56:16</publishTime>
+    </File>
+    <File Include="App_Resources/iOS/icon-72%402x.png">
+      <publishTime>04/09/2014 08:56:16</publishTime>
+    </File>
+    <File Include="App_Resources/iOS/icon-72.png">
+      <publishTime>04/09/2014 08:56:16</publishTime>
+    </File>
+    <File Include="App_Resources/iOS/icon-76%402x.png">
+      <publishTime>04/09/2014 08:56:16</publishTime>
+    </File>
+    <File Include="App_Resources/iOS/icon-76.png">
+      <publishTime>04/09/2014 08:56:16</publishTime>
+    </File>
+    <File Include="App_Resources/iOS/Icon-Small%402x.png">
+      <publishTime>04/09/2014 08:56:16</publishTime>
+    </File>
+    <File Include="App_Resources/iOS/Icon-Small-50%402x.png">
+      <publishTime>04/09/2014 08:56:16</publishTime>
+    </File>
+    <File Include="App_Resources/iOS/Icon-Small-50.png">
+      <publishTime>04/09/2014 08:56:16</publishTime>
+    </File>
+    <File Include="App_Resources/iOS/Icon-Small.png">
+      <publishTime>04/09/2014 08:56:16</publishTime>
+    </File>
+    <File Include="App_Resources/iOS/icon.png">
+      <publishTime>04/09/2014 08:56:16</publishTime>
+    </File>
+    <File Include="App_Resources/WP8/ApplicationIcon.png">
+      <publishTime>04/09/2014 08:56:16</publishTime>
+    </File>
+    <File Include="App_Resources/WP8/SplashScreenImage.jpg">
+      <publishTime>04/09/2014 08:56:16</publishTime>
+    </File>
+    <File Include="App_Resources/WP8/Tiles/Iconic/110x110.png">
+      <publishTime>04/09/2014 08:56:16</publishTime>
+    </File>
+    <File Include="App_Resources/WP8/Tiles/Iconic/202x202.png">
+      <publishTime>04/09/2014 08:56:16</publishTime>
+    </File>
+    <File Include="index.html">
+      <publishTime>06/24/2014 01:37:57</publishTime>
+    </File>
+    <File Include="jquery-mobile/js/jquery-1.10.2.min.js">
+      <publishTime>06/22/2014 20:28:41</publishTime>
+    </File>
+    <File Include="jquery-mobile/js/jquery.mobile-1.4.2.min.js">
+      <publishTime>06/22/2014 20:29:11</publishTime>
+    </File>
+    <File Include="jquery-mobile/styles/images/ajax-loader.gif">
+      <publishTime>04/09/2014 08:56:16</publishTime>
+    </File>
+    <File Include="jquery-mobile/styles/images/icons-18-black.png">
+      <publishTime>04/09/2014 08:56:16</publishTime>
+    </File>
+    <File Include="jquery-mobile/styles/images/icons-18-white.png">
+      <publishTime>04/09/2014 08:56:16</publishTime>
+    </File>
+    <File Include="jquery-mobile/styles/images/icons-36-black.png">
+      <publishTime>04/09/2014 08:56:16</publishTime>
+    </File>
+    <File Include="jquery-mobile/styles/images/icons-36-white.png">
+      <publishTime>04/09/2014 08:56:16</publishTime>
+    </File>
+    <File Include="jquery-mobile/styles/jquery.mobile-1.3.1.min.css">
+      <publishTime>04/09/2014 08:56:16</publishTime>
+    </File>
+    <File Include="jquery-mobile/styles/jquery.mobile.structure-1.4.2.min.css">
+      <publishTime>06/22/2014 20:28:09</publishTime>
+    </File>
+    <File Include="scripts/location.js">
+      <publishTime>04/09/2014 08:56:16</publishTime>
+    </File>
+    <File Include="scripts/login.js">
+      <publishTime>06/24/2014 01:43:02</publishTime>
+    </File>
+    <File Include="styles/images/location.png">
+      <publishTime>04/09/2014 08:56:16</publishTime>
+    </File>
+    <File Include="styles/images/location2x.png">
+      <publishTime>04/09/2014 08:56:16</publishTime>
+    </File>
+    <File Include="styles/images/location_active.png">
+      <publishTime>04/09/2014 08:56:16</publishTime>
+    </File>
+    <File Include="styles/images/location_active2x.png">
+      <publishTime>04/09/2014 08:56:16</publishTime>
+    </File>
+    <File Include="styles/images/search.png">
+      <publishTime>04/09/2014 08:56:16</publishTime>
+    </File>
+    <File Include="styles/images/search2x.png">
+      <publishTime>04/09/2014 08:56:16</publishTime>
+    </File>
+    <File Include="styles/images/search_active.png">
+      <publishTime>04/09/2014 08:56:16</publishTime>
+    </File>
+    <File Include="styles/images/search_active2x.png">
+      <publishTime>04/09/2014 08:56:16</publishTime>
+    </File>
+    <File Include="styles/main.css">
+      <publishTime>04/09/2014 08:56:16</publishTime>
+    </File>
+    <File Include="themes/images/ajax-loader.gif">
+      <publishTime>06/20/2014 18:53:10</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/action-black.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/action-white.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/alert-black.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/alert-white.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/arrow-d-black.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/arrow-d-l-black.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/arrow-d-l-white.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/arrow-d-r-black.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/arrow-d-r-white.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/arrow-d-white.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/arrow-l-black.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/arrow-l-white.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/arrow-r-black.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/arrow-r-white.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/arrow-u-black.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/arrow-u-l-black.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/arrow-u-l-white.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/arrow-u-r-black.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/arrow-u-r-white.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/arrow-u-white.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/audio-black.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/audio-white.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/back-black.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/back-white.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/bars-black.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/bars-white.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/bullets-black.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/bullets-white.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/calendar-black.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/calendar-white.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/camera-black.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/camera-white.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/carat-d-black.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/carat-d-white.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/carat-l-black.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/carat-l-white.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/carat-r-black.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/carat-r-white.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/carat-u-black.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/carat-u-white.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/check-black.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/check-white.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/clock-black.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/clock-white.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/cloud-black.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/cloud-white.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/comment-black.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/comment-white.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/delete-black.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/delete-white.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/edit-black.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/edit-white.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/eye-black.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/eye-white.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/forbidden-black.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/forbidden-white.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/forward-black.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/forward-white.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/gear-black.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/gear-white.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/grid-black.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/grid-white.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/heart-black.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/heart-white.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/home-black.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/home-white.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/info-black.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/info-white.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/location-black.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/location-white.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/lock-black.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/lock-white.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/mail-black.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/mail-white.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/minus-black.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/minus-white.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/navigation-black.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/navigation-white.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/phone-black.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/phone-white.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/plus-black.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/plus-white.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/power-black.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/power-white.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/recycle-black.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/recycle-white.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/refresh-black.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/refresh-white.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/search-black.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/search-white.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/shop-black.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/shop-white.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/star-black.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/star-white.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/tag-black.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/tag-white.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/user-black.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/user-white.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/video-black.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/images/icons-png/video-white.png">
+      <publishTime>03/04/2014 14:23:32</publishTime>
+    </File>
+    <File Include="themes/jquery.mobile.icons.min.css">
+      <publishTime>06/20/2014 18:53:10</publishTime>
+    </File>
+    <File Include="themes/JRED.css">
+      <publishTime>06/20/2014 18:53:10</publishTime>
+    </File>
+    <File Include="themes/JRED.min.css">
+      <publishTime>06/20/2014 18:53:10</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
